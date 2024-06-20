@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DataGrid FileName="Fdg_AutoGenerateColumns.xml">
+  <ColumnHeaderHeight>40</ColumnHeaderHeight>
+  <RowHeight>40</RowHeight>
+  <RowHeaderWidth>50</RowHeaderWidth>
+  <GroupRowHeight>30</GroupRowHeight>
+  <ShowInCenter>False</ShowInCenter>
+  <ShowGlobalSearchPanel>False</ShowGlobalSearchPanel>
+  <ChangeColor>False</ChangeColor>
+  <ShowVerticalGridLine>False</ShowVerticalGridLine>
+  <Columns>
+    <FirstName>
+      <Header>FirstName</Header>
+      <Width>93.5033333333333</Width>
+      <Alignment>Default</Alignment>
+      <Visibility>Visible</Visibility>
+    </FirstName>
+    <LastName>
+      <Header>LastName</Header>
+      <Width>93.03</Width>
+      <Alignment>Default</Alignment>
+      <Visibility>Visible</Visibility>
+    </LastName>
+    <Manager>
+      <Header>Manager</Header>
+      <Width>85.74</Width>
+      <Alignment>Default</Alignment>
+      <Visibility>Visible</Visibility>
+    </Manager>
+    <Salary>
+      <Header>Salary</Header>
+      <Width>136</Width>
+      <Alignment>Right</Alignment>
+      <Visibility>Visible</Visibility>
+    </Salary>
+    <Age>
+      <Header>Age</Header>
+      <Width>54.84</Width>
+      <Alignment>Default</Alignment>
+      <Visibility>Visible</Visibility>
+    </Age>
+    <StartDate>
+      <Header>StartDate</Header>
+      <Width>160.01</Width>
+      <Alignment>Default</Alignment>
+      <Visibility>Visible</Visibility>
+    </StartDate>
+  </Columns>
+  <Group />
+  <Sort />
+</DataGrid>

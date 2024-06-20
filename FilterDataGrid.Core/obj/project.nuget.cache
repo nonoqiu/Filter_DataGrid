@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "vvZosIQdRxE=",
+  "success": true,
+  "projectFilePath": "D:\\BaiduNetdiskDownload\\FilterDataGrid\\FilterDataGrid.Core\\FilterDataGrid.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\admin\\.nuget\\packages\\materialdesigncolors\\2.1.4\\materialdesigncolors.2.1.4.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\materialdesignthemes\\4.9.0\\materialdesignthemes.4.9.0.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\microsoft.xaml.behaviors.wpf\\1.1.39\\microsoft.xaml.behaviors.wpf.1.1.39.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\miniexcel\\1.31.3\\miniexcel.1.31.3.nupkg.sha512"
+  ],
+  "logs": []
+}
